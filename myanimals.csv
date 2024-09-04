@@ -1,0 +1,21 @@
+"Name","Diet","Height","Weight"
+"Elephant","Herbivore",300,6000
+"Tiger","Carnivore",90,220
+"Giraffe","Herbivore",550,1200
+"Lion","Carnivore",120,190
+"Kangaroo","Herbivore",150,85
+"Cheetah","Carnivore",80,72
+"Panda","Herbivore",75,100
+"Wolf","Carnivore",85,45
+"Hippopotamus","Herbivore",150,1500
+"Rhinoceros","Herbivore",170,2300
+"Zebra","Herbivore",140,400
+"Grizzly Bear","Omnivore",130,600
+"Crocodile","Carnivore",50,500
+"Chimpanzee","Omnivore",100,50
+"Moose","Herbivore",200,700
+"Orangutan","Omnivore",140,90
+"Bison","Herbivore",180,900
+"Penguin","Carnivore",50,30
+"Leopard","Carnivore",70,90
+"Koala","Herbivore",70,15

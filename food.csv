@@ -1,0 +1,31 @@
+"Name","Department","Price"
+"Apple","Produce",0.99
+"Banana","Produce",0.59
+"Carrot","Produce",0.89
+"Broccoli","Produce",1.49
+"Chicken Breast","Meat",5.99
+"Ground Beef","Meat",4.99
+"Salmon","Seafood",9.99
+"Shrimp","Seafood",12.99
+"Milk","Dairy",2.99
+"Cheddar Cheese","Dairy",3.49
+"Yogurt","Dairy",0.99
+"Eggs","Dairy",2.49
+"Rice","Grains",1.29
+"Spaghetti","Grains",1.09
+"Bread","Bakery",2.99
+"Muffins","Bakery",3.99
+"Bagels","Bakery",3.49
+"Orange Juice","Beverages",3.99
+"Coffee","Beverages",7.99
+"Tea","Beverages",4.49
+"Cereal","Cereal & Breakfast",3.99
+"Oatmeal","Cereal & Breakfast",2.49
+"Peanut Butter","Pantry",2.99
+"Jam","Pantry",2.49
+"Tomato Sauce","Pantry",1.79
+"Olive Oil","Pantry",6.99
+"Frozen Pizza","Frozen Foods",5.49
+"Ice Cream","Frozen Foods",4.99
+"Chicken Nuggets","Frozen Foods",6.99
+"Butter","Dairy",3.29
